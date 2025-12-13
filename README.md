@@ -58,7 +58,7 @@ deliver real-time fare predictions.
 
 ---
 
-### 🛠️ **Notable Projects**
+### 🛠️ **Projects**
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
