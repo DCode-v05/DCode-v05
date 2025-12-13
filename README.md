@@ -94,11 +94,6 @@ deliver real-time fare predictions.
 
 ---
 
-### 📈 **GitHub Stats**
-![Denistan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DCode-v05&show_icons=true&theme=radical)
-
----
-
 ### 💬 **Connect with Me!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denistanb/)
@@ -112,3 +107,12 @@ deliver real-time fare predictions.
 
 - Open for collaboration on innovative AI & ML projects, especially in **Generative AI, NLP, and AI Agents**.
 - Interested in open-source contributions, tech innovation, and hackathons.
+
+---
+
+### 📈 **GitHub Stats**
+![Denistan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DCode-v05&show_icons=true&theme=radical)
+<img
+  src="https://raw.githubusercontent.com/DCode-v05/DCode-v05/main/assets/github-snake-dark.svg"
+  alt="GitHub contribution snake"
+/>
