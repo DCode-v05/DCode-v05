@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every day
+    - cron: "0 0 * * *"   # runs daily (UTC)
   workflow_dispatch:
 
 jobs:
@@ -13,19 +13,18 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          ref: main
           persist-credentials: true
 
       - name: Prepare assets directory
         run: mkdir -p assets
 
-      - name: Generate snake
+      - name: Generate snake (light + custom dark theme)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-snake.svg
-            assets/github-snake-dark.svg?palette=github-dark
+            assets/github-snake-dark.svg?color_snake=#a855f7&color_dots=#1f2937,#1f2937,#065f46,#16a34a,#22c55e
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
