@@ -89,7 +89,8 @@ deliver real-time fare predictions.
 
 ### 🏆 **Achievements**
 
-- 🥇 **Python Coding Contest Winner** - NeoColab 2024
+- 🥇 **Winner** - Python Coding Contest, NeoColab
+- 🏅 **Finalist** - Innovation & Build Hackathon
 - 🏅 **Mahatma Gandhi Merit Scholarship** - Kumaraguru College of Technology 2023-24, 2024-25
 
 ---
