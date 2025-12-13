@@ -96,7 +96,7 @@ deliver real-time fare predictions.
 
 ### 💬 **Connect with Me!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denistanb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denistanb/)  
 📧 **Email:** [denistanb05@gmail.com](mailto:denistanb05@gmail.com)  
 📱 **Contact:** +91 9677388522
 
