@@ -1,7 +1,8 @@
 ![Intro GIF](https://raw.githubusercontent.com/DCode-v05/DCode-v05/main/intro.gif)
 
-I'm passionate about turning innovative ideas into real-world impact through AI, Machine Learning, and scalable backend engineering. My work spans **Computer Vision, NLP, Large Language Models, Generative AI, AI Agents, and Backend Development**, and I love building systems that push the boundaries of what's possible. Always open to collaborating on projects shaping the future of technology!
+I'm passionate about turning innovative ideas into real-world impact through AI, Machine Learning, and scalable backend engineering. My work spans **Computer Vision, NLP, Large Language Models, Generative AI, AI Agents, and Backend Development**, and I love building systems that push the boundaries of what's possible. Always open to collaborating on projects shaping the future of technology!  
 
+[Portfolio Link](https://denistan-b-portfolio.vercel.app/)
 ---
 
 ### 🔧 **Tech Stack & Skills**
