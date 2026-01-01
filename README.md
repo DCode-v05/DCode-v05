@@ -2,7 +2,7 @@
 
 I'm passionate about turning innovative ideas into real-world impact through AI, Machine Learning, and scalable backend engineering. My work spans **Computer Vision, NLP, Large Language Models, Generative AI, AI Agents, and Backend Development**, and I love building systems that push the boundaries of what's possible. Always open to collaborating on projects shaping the future of technology!  
 
-[Portfolio Link](https://denistan-b-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logoColor=white)](https://denistan-b-portfolio.vercel.app/)
 ---
 
 ### 🔧 **Tech Stack & Skills**
@@ -98,7 +98,8 @@ deliver real-time fare predictions.
 
 ### 💬 **Connect with Me!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denistanb/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denistanb/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/Denistan_B/)  
 📧 **Email:** [denistanb05@gmail.com](mailto:denistanb05@gmail.com)  
 📱 **Contact:** +91 9677388522
 
@@ -112,8 +113,16 @@ deliver real-time fare predictions.
 ---
 
 ### 📈 **GitHub Stats**
-![Denistan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DCode-v05&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-dcode-v05.vercel.app/api?username=DCode-v05&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-streak-stats-dcode-v05.vercel.app?user=DCode-v05&theme=dark)](https://git.io/streak-stats)  
 <img
   src="https://raw.githubusercontent.com/DCode-v05/DCode-v05/main/assets/github-snake-dark.svg"
   alt="GitHub contribution snake"
 />
+
+---
+
+### 📈 **LeetDode Stats** 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Denistan_B?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/Denistan_B?theme=dark&font=Inter&ext=heatmap)
+
+---
