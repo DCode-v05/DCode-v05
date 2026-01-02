@@ -116,7 +116,7 @@ deliver real-time fare predictions.
 ![GitHub Stats](https://github-readme-stats-dcode-v05.vercel.app/api?username=DCode-v05&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-streak-stats-dcode-v05.vercel.app?user=DCode-v05&theme=dark)](https://git.io/streak-stats)  
 <img
-  src="https://raw.githubusercontent.com/DCode-v05/DCode-v05/main/assets/github-snake-dark.svg"
+  src="https://raw.githubusercontent.com/DCode-v05/DCode-v05/main/assets/github-snake.svg"
   alt="GitHub contribution snake"
 />
 
