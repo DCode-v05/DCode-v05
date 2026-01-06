@@ -84,6 +84,7 @@ deliver real-time fare predictions.
 - 🏅 **ML Foundations** *(AWS)*
 - 🏅 **Cloud Foundations** *(AWS)*
 - 🏅 **Gen AI Foundations** *(AWS)*
+- 🏅 **ML for Natural Language Processing** *(AWS)*
 - 🏅 **Introduction to Model Context Protocol** *(Anthropic)*
 
 ---
