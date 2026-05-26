@@ -124,6 +124,10 @@ deliver real-time fare predictions.
 ---
 
 ### 📈 **LeetDode Stats** 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Denistan_B?theme=dark&font=Inter&ext=heatmap)](https://leetcode.com/Denistan_B?theme=dark&font=Inter&ext=heatmap)
-
+<div align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/Denistan_B?theme=dark&font=Benne&ext=heatmap"
+    width="100%"
+  />
+</div>
 ---
