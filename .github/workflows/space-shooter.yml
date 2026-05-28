@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Create assets folder
         run: mkdir -p assets
@@ -26,10 +28,17 @@ jobs:
           output-path: assets/space-shooter.gif
           strategy: random
 
-      - name: Commit files
+      - name: Commit and Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "update shooter gif" || echo "No changes"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add assets/space-shooter.gif
+
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "Update space shooter game GIF"
+
+          git pull --rebase origin main
+
+          git push origin main
