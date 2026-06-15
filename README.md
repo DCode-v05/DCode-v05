@@ -2,7 +2,7 @@
 
 I'm passionate about turning innovative ideas into real-world impact through AI, Machine Learning, and scalable backend engineering. My work spans **Computer Vision, NLP, Large Language Models, Generative AI, AI Agents, and Backend Development**, and I love building systems that push the boundaries of what's possible. Always open to collaborating on projects shaping the future of technology!  
 
-[![Portfolio](https://img.shields.io/badge/%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logoColor=white)](https://denistan-b-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logoColor=white)](https://www.denistan.me/)
 ---
 
 ### 🔧 **Tech Stack & Skills**
