@@ -65,7 +65,7 @@ I'm a Computer Science Engineering student at Kumaraguru College of Technology, 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Roller Defect Detection**](https://github.com/DCode-v05/Roller-Defect-Detection) | Real-time industrial inspection station: two cameras grade both roller faces with YOLO and drive a Siemens PLC to physically sort accept/reject, at 100,000+ rollers/day. | Python, YOLO, OpenCV, Tkinter, MySQL, Siemens PLC |
-| [**Jewellery E-Commerce Backend**](https://github.com/DCode-v05/Jewellary-Ecommerce) | Production e-commerce backend with payments, shipping and OTP integrations, plus a Python ALS recommendation service. Live storefront. | TypeScript, Express, Prisma, PostgreSQL, FastAPI |
+| [**Jewellery E-Commerce Backend**](https://github.com/DCode-v05/Jewellery-Ecommerce) | Production e-commerce backend with payments, shipping and OTP integrations, plus a Python ALS recommendation service. Live storefront. | TypeScript, Express, Prisma, PostgreSQL, FastAPI |
 | [**NexusAI**](https://github.com/DCode-v05/NexusAI) | Student wellbeing and career co-pilot: ML risk detection, sentiment analysis, FAISS-backed RAG, and MCP servers behind a React dashboard. | FastAPI, IsolationForest, DistilBERT, FAISS, MCP |
 | [**Inference Center**](https://github.com/DCode-v05/Inference-Center) | LLM-orchestration gateway with tier-based routing, quotas and rate limiting; the hot path is in Rust via PyO3. | Python, Rust (PyO3), Redis, PostgreSQL |
 | [**Discovery Agent**](https://github.com/DCode-v05/Discovery-Agent) | Agent that reads unstructured company docs and produces runnable integration code (discovery → gap analysis → codegen, with tests). | Python, LLMs, FastAPI |
