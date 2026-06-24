@@ -131,12 +131,11 @@ More in the [repositories tab](https://github.com/DCode-v05?tab=repositories).
 
 ### 💬 Connect with Me!
 
-**Portfolio:** [Denistan](https://www.denistan.me)<br>
-**LinkedIn:** [Denistan](https://www.linkedin.com/in/denistanb)<br>
-**GitHub:** [DCode-v05](https://github.com/DCode-v05)<br>
-**LeetCode:** [Denistan_B](https://leetcode.com/u/Denistan_B)<br>
-**Email:** [denistanb05@gmail.com](mailto:denistanb05@gmail.com)<br>
-**Phone:** +91 9677388522
+<table>
+  <tr><td><b>Portfolio:</b> <a href="https://www.denistan.me">Denistan</a></td><td><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/denistanb">denistanb</a></td></tr>
+  <tr><td><b>GitHub:</b> <a href="https://github.com/DCode-v05">DCode-v05</a></td><td><b>LeetCode:</b> <a href="https://leetcode.com/u/Denistan_B">Denistan_B</a></td></tr>
+  <tr><td><b>Email:</b> <a href="mailto:denistanb05@gmail.com">denistanb05@gmail.com</a></td><td><b>Phone:</b> +91 9677388522</td></tr>
+</table>
 
 ---
 
